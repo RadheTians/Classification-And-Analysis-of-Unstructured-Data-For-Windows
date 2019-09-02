@@ -71,7 +71,7 @@ Classification and analysis of unstructured data: Need to develop a tool/system 
  
    2. Open the tool to start, by executing mdata.py file.
  
-   $ python mdata.py
+   $ python interface.py
  
    
    3. Enter the pathname in the tool for metadata extraction and click on the button for its corresponding type of sorted output.
