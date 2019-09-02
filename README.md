@@ -21,17 +21,17 @@ Classification and analysis of unstructured data: Need to develop a tool/system 
    
 ## REQUIREMENT
  
-   Environment:
+### Environment:
   
    Source code to this tool is coded in Python3, with its GUI running in PyQt5 env.
  
  
-   Packages:
+### Packages:
 
    subprocess, os, pymongo.
 
 
-   Command Line Interface(CLI):
+### Command Line Interface(CLI):
   
    exiftool.
  
@@ -40,21 +40,21 @@ Classification and analysis of unstructured data: Need to develop a tool/system 
  
    Use the package manager [pip](https://pip.pypa.io/en/stable/) to install packages subprocess, os, pymongo and set env for Python2.
  
-   Packages :  
+### Packages :  
 
-   $ pip install subprocess
-   $ pip install os
-   $ pip install pymongo
+   	$ pip install subprocess
+   	$ pip install os
+   	$ pip install pymongo
 
  
 ### Python3 env :
 
-   $ pip install python3.7 python-pip
+   	$ pip install python3.7 python-pip
 
 
 ### Setting up PyQt5 env for Python3 :
 
-   $ pip install python-pyqt5
+   	$ pip install python-pyqt5
 
 
    Installing exiftool from https://sno.phy.queensu.ca/~phil/exiftool/install.html#Windows link :
@@ -66,12 +66,12 @@ Classification and analysis of unstructured data: Need to develop a tool/system 
  
    1. Open CMD, and change/move to the directory of the file interface.py ,i.e, mini.
 
-   $ cd /'PATH'/mini
+   	$ cd /'PATH'/mini
 
  
    2. Open the tool to start, by executing mdata.py file.
  
-   $ python interface.py
+   	$ python interface.py
  
    
    3. Enter the pathname in the tool for metadata extraction and click on the button for its corresponding type of sorted output.
